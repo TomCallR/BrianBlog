@@ -1,2 +1,5 @@
 .ionide/
 obj/
+bin/
+obj/
+*.json

@@ -7,7 +7,8 @@
 
   <ItemGroup>
     <!-- <Compile Include="Program.fs" /> -->
-    <Compile Include="BrianCata123.fs" />
+    <!-- <Compile Include="BrianCata123.fs" /> -->
+    <Compile Include="BrianCata.fs" />
   </ItemGroup>
 
 </Project>
